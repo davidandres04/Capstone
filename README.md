@@ -1,4 +1,4 @@
-# Capstone
+# Capstone 002D Docente: Francia Berna
 Toda la documentación asociada a nuestro proyecto de titulo. 
 
 Por Gonzalo Meza, David Araya, Ian Navarrete.
